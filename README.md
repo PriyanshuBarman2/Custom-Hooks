@@ -12,9 +12,16 @@ Just copy the code and start using it in your React project.
 
 ## 🪝 Hooks
 
-### **useTime**  
-<sub>[code](./hooks/useTime/useTime.js) • [docs](./hooks/useTime/README.md)</sub>
-
+<ul>
+  <li>
+    <strong style="font-size: 1.2em;">useTime</strong>
+    <span style="font-size: 0.85em;">&nbsp;&nbsp;<a href="./hooks/useTime/useTime.js">code</a> • <a href="./hooks/useTime/README.md">docs</a></span>
+  </li>
+  <li>
+    <strong style="font-size: 1.2em;">useDebounce</strong>
+    <span style="font-size: 0.85em;">&nbsp;&nbsp;<a href="./hooks/useDebounce/useDebounce.js">code</a> • <a href="./hooks/useDebounce/README.md">docs</a></span>
+  </li>
+</ul>
 
 
 
