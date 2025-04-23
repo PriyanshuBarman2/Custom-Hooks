@@ -14,7 +14,7 @@ Just copy the code and start using it in your React project.
 
 <ul>
   <li>
-    <strong style="font-size: 2em;">useTime</strong>
+    <strong style="font-size: 2em;">useTime</strong> &nbsp;&nbsp
     <span style="font-size: 0.85em;"> <a href="./useTime/useTime.js">code</a> / <a href="./hooks/useTime/README.md">docs</a> </span>
   </li>
 <br/>
