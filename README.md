@@ -12,6 +12,9 @@ Just copy the code and start using it in your React project.
 
 ## 🪝 Hooks
 
+- **useTime** [code](./hooks/useTime/useTime.js) / [docs](./hooks/useTime/README.md)
+
+
 <ul>
   <li>
     <strong style="font-size: 2em;">useTime</strong> &nbsp;&nbsp
