@@ -12,7 +12,10 @@ Just copy the code and start using it in your React project.
 
 ## 🪝 Hooks
 
-- **useTime** [code](./hooks/useTime/useTime.js) / [docs](./hooks/useTime/README.md)
+- **useTime**&nbsp;&nbsp;[code](./hooks/useTime/useTime.js) / [docs](./hooks/useTime/README.md)
+
+
+- useTime [code](./hooks/useTime/useTime.js) / [docs](./hooks/useTime/README.md)
 
 
 <ul>
