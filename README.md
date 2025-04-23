@@ -1,20 +1,18 @@
 # 🔧 React Custom Hooks
 
-This repository contains a collection of reusable **React Custom Hooks** that I personally use across my projects. Each hook includes documentation, and you can start using these custom hooks by copying and pasting the code into your project.
+This repository provides a collection of reusable **React Custom Hooks**. Each hook is well-documented, making it easy to understand and integrate into your React projects. Simply copy the code and start using them to enhance functionality with ease.
 
 ---
 
 ## 📦 How to Use
 
-1. Browse the list of hooks below.
-2. Click on the hook name to view its **code** and **documentation**.
-3. Copy the code and start using it in your React project.
+Just copy the code and start using it in your React project.
 
 ---
 
-## 🪝 List of Available Hooks
+## 🪝 Hooks
 
-[useTime](./useTime)
+## useTime [code](./hooks/useTime/useTime.js) [docs](./hooks/useTime/README.md)
 
 ---
 
